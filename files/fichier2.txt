@@ -1,0 +1,24 @@
+﻿Quel est le numéro de la question?
+5
+2
+4
+La première question.
+1
+La deuxième question.
+0
+Qu'est ce qui permet d'écrire des scripts?
+3
+2
+3
+CSS
+JS
+HTML
+Quel nombre se rapproche le plus de 3?
+6
+4
+5
+Pi
+38/10
+1/3
+3.1
+5/9

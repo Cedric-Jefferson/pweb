@@ -1,0 +1,95 @@
+﻿Quel est le numéro de la question?
+5
+2
+5
+La première question
+1
+La deuxième question
+Le numéro 1
+0
+Qu'est-ce qui permet d'écrire des scripts?
+3
+2
+3
+CSS
+JS
+HTML
+Quel nombre se rapproche le plus de 3?
+6
+4
+5
+Pi
+38/10
+1/3
+3.1
+5/9
+Quel est le nom du professeur de programmation Web?
+4
+3
+5
+Marving Gilly
+Marvin Gily
+Marvin Gilly
+Marvin Jilly
+Marvin Gay
+Combien d'heures en moyenne un paresseux dort-il par jour?
+3
+2
+4
+18 heures
+22 heures
+13 heures
+7 heures
+Dans quel pays se trouve le plus grand puits d'exploitation minière du monde?
+4
+3
+5
+France
+USA
+Afrique du Sud
+Micronésie
+Russie
+Comment appelle-t-on la phobie du tonnerre?
+5
+2
+4
+La tonnerrophobie
+La brontophobie
+La nerrophobie
+La protophobie
+Quels sont les 4 premiers nombres premiers?
+7
+3
+5
+1 2 3 5
+1 2 5 7
+2 3 5 7 
+2 3 5 11
+2 5 7 11
+Quel surnom donnait-on au grand physicien Nicolas Tesla?
+3
+1
+3
+Le magicien de l'ouest
+Oudin
+Le sorcier de waverly
+Quelle est la capitale du Maroc?
+3
+3
+4
+Casablanca
+Meknes
+Rabat
+Marrakech
+Quelles sont les couches du modèle OSI?
+7
+2,3,4,7
+8
+Surfacique
+Physique et Liaisons de données
+Réseau et transport
+Session et Présentation
+Interface
+Affichage
+Application
+Interne

@@ -1,0 +1,71 @@
+html{
+	background-image:url(./font2.jpg);
+	background-repeat:repeat;
+}
+body{
+	overflow-y: auto;
+    font-size:100%;
+    overflow:hidden;
+    font-family:cursive;
+    background:linear-gradient(90deg,rgba(250,157,206,1),white,rgba(250,157,206,1));
+}
+.show{
+	overflow-y:auto;
+}
+button{
+    font-size:100%;
+    background:linear-gradient(silver,gray);
+    top:100%;
+    left:45%;
+}
+input[type=radio]{
+    zoom:calc(3/2);
+}
+.question,.box{
+    opacity:0;
+    text-align:center;
+	position: absolute; 
+	left: 0; 
+	right: 0; 
+	margin-left: auto; 
+	margin-right: auto;
+	margin-top: 5%;
+	padding-top:5%;
+	padding-bottom:5%;
+	width: 800px; 
+	display:none;
+	background-color: white;
+	border:3px solid #DCDCDC;
+	border-radius: 5px;
+}
+.active{
+	display:block;
+	opacity:1;
+}
+#timer{
+	margin:0;
+	float:right;
+	font-size:36px;
+	background-color:white;
+	border:3px solid #DCDCDC;
+}
+.box{
+	opacity:1;
+	display:block;
+}
+#print-zone{
+	pointer-events: none;
+	overflow-y: hidden;
+}
+.bold{
+	font-weight:bold;
+}
+.italic{
+	font-style: italic;
+}
+.underline{
+	 text-decoration: underline;
+}
+.hide{
+	display:none;
+}
